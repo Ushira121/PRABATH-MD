@@ -23,7 +23,7 @@
     
     "GITHUB_AUTH_TOKEN": {
       "description": "Put your github authtoken here.",
-      "required": false
+      "required": true
     }   
 },
 
