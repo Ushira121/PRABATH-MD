@@ -6,18 +6,18 @@
   "success_url": "/",
 
   "env": {
-    "BOT_NUMBER": {+940710700467}
-      "description": ",
+    "BOT_NUMBER": {
+      "description": "+940710700467",
       "required": true
     },  
 
-    "SESSION_ID": {PRABATH-MD~hr9XgbwK#Op8mVRpBfm0ZbaZeKBHygHXXsfC1JM2haGO14OLhWJE}
-      "description": "",
+    "SESSION_ID": {
+      "description": "PRABATH-MD~hr9XgbwK#Op8mVRpBfm0ZbaZeKBHygHXXsfC1JM2haGO14OLhWJE",
       "required": true
     },  
 
-    "GITHUB_USERNAME": {Ushira121}
-      "description": "",
+    "GITHUB_USERNAME": {
+      "description": "Ushira121",
       "required": true
     },
     
