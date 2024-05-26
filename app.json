@@ -6,24 +6,24 @@
   "success_url": "/",
 
   "env": {
-    "BOT_NUMBER": {
-      "description": "+940710700467",
+    "BOT_NUMBER": {+940710700467}
+      "description": ",
       "required": true
     },  
 
-    "SESSION_ID": {
-      "description": "PRABATH-MD~hr9XgbwK#Op8mVRpBfm0ZbaZeKBHygHXXsfC1JM2haGO14OLhWJE",
+    "SESSION_ID": {PRABATH-MD~hr9XgbwK#Op8mVRpBfm0ZbaZeKBHygHXXsfC1JM2haGO14OLhWJE}
+      "description": "",
       "required": true
     },  
 
-    "GITHUB_USERNAME": {
-      "description": "Ushira121",
+    "GITHUB_USERNAME": {Ushira121}
+      "description": "",
       "required": true
     },
     
     "GITHUB_AUTH_TOKEN": {
       "description": "Put your github authtoken here.",
-      "required": true
+      "required": false
     }   
 },
 
